@@ -1,0 +1,12 @@
+{
+  "name": "neuter-pronoun.js",
+  "version": "1.0.4",
+  "main": "index.js",
+  "keywords": ["neuter", "pronoun", "pronome", "neutro", "substituir", "replace"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
